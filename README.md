@@ -2,16 +2,16 @@
 
 ### M.Tech Student (CSE) @ SSSIHL | Backend & Infrastructure Engineer
 
-I am a software engineer focused on **Backend Development**, **Microservices**, and **DevOps Automation**. [cite_start]I enjoy building scalable systems and optimizing workflows[cite: 6, 23].
+I am a software engineer focused on **Backend Development**, **Microservices**, and **DevOps Automation**. I enjoy building scalable systems and optimizing workflows.
 
 ---
 
 ### 🚀 Key Highlights
 
-* [cite_start]**Backend Engineering:** Built scalable REST APIs and Microservices using **Flask** and **Python**[cite: 19, 27].
-* [cite_start]**DevOps & Infra:** Designed **CI/CD pipelines** to automate software delivery using **Docker** and **GitHub Actions**[cite: 23, 24].
-* [cite_start]**Achievements:** Winner of the **Aptean AI Hackathon** (LLM-based suggestion tool) and Semifinalist at **Unstop Talent Park**[cite: 31, 32].
-* [cite_start]**Open Source:** Contributor to **Health4All**, a system deployed in government hospitals across 7 states in India[cite: 43].
+* **Backend Engineering:** Built scalable REST APIs and Microservices using **Flask** and **Python**.
+* **DevOps & Infra:** Designed **CI/CD pipelines** to automate software delivery using **Docker** and **GitHub Actions**.
+* **Achievements:** Winner of the **Aptean AI Hackathon** (LLM-based suggestion tool) and Semifinalist at **Unstop Talent Park**.
+* **Open Source:** Contributor to **Health4All**, a system deployed in government hospitals across 7 states in India.
 
 ---
 
@@ -38,7 +38,7 @@ I am a software engineer focused on **Backend Development**, **Microservices**, 
 
 ### ⚡ Quick Bytes
 
-* [cite_start]**Experience:** Freelance AI Prompt Engineer @ Outlier.ai[cite: 8].
+* **Experience:** Freelance AI Prompt Engineer @ Outlier.ai.
 * **Philosophy:** "Code, fail, debug, repeat."
 * **Interests:** MLOps, Distributed Systems, and *One Piece* (Luffy vs. Blackbeard theories welcome 🏴‍☠️).
 
