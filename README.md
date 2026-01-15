@@ -1,50 +1,53 @@
 # Hi there 👋 I'm Yaswanth
 
-### M.Tech Student (CSE) @ SSSIHL | Backend & Infrastructure Engineer
+### M.Tech Student (CSE) @ SSSIHL | C++ & Backend Engineer 🏴‍☠️
 
-I am a software engineer focused on **Backend Development**, **Microservices**, and **DevOps Automation**. I enjoy building scalable systems and optimizing workflows.
-
----
-
-### 🚀 Key Highlights
-
-* **Backend Engineering:** Built scalable REST APIs and Microservices using **Flask** and **Python**.
-* **DevOps & Infra:** Designed **CI/CD pipelines** to automate software delivery using **Docker** and **GitHub Actions**.
-* **Achievements:** Winner of the **Aptean AI Hackathon** (LLM-based suggestion tool) and Semifinalist at **Unstop Talent Park**.
-* **Open Source:** Contributor to **Health4All**, a system deployed in government hospitals across 7 states in India.
+I am a Systems & Backend Engineer setting sail to build **high-performance applications**. My core strength lies in **C++**, **Data Structures**, and **Scalable Infrastructure**.
 
 ---
 
-### 💻 Tech Stack
+### ⚔️ My Arsenal (Tech Stack)
 
-**Languages**
+**Main Weapon (Preferred Language)**
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+**Support Crew (Backend & Tools)**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Backend & Frameworks**
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-blue?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-
-**DevOps & Tools**
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-### ⚡ Quick Bytes
+### 🧭 The Log Pose (What I Do)
 
-* **Experience:** Freelance AI Prompt Engineer @ Outlier.ai.
-* **Philosophy:** "Code, fail, debug, repeat."
-* **Interests:** MLOps, Distributed Systems, and *One Piece* (Luffy vs. Blackbeard theories welcome 🏴‍☠️).
+* [cite_start]**Mastering the Blade (C++):** Solving complex algorithmic problems (DSA) and building efficient systems[cite: 26, 29].
+* [cite_start]**Shipwright Skills (Backend):** Engineering scalable REST APIs and Microservices[cite: 19].
+* [cite_start]**Navigation (DevOps):** Automating deployment with **CI/CD pipelines** and **Docker** containers[cite: 23].
+* [cite_start]**Alliance (Open Source):** Contributor to **Health4All**, serving hospitals across 7 states[cite: 43].
 
 ---
 
-### 🌐 Connect with Me
+### 💰 Current Bounty (Achievements)
+
+* [cite_start]🏆 **Winner:** Aptean AI Hackathon (LLM Application Tool)[cite: 31].
+* [cite_start]🥈 **Semifinalist:** Unstop Talent Park (Competitive Tech Challenge)[cite: 32].
+* [cite_start]📜 **Experience:** Freelance AI Prompt Engineer @ Outlier.ai[cite: 8].
+
+---
+
+### ⚡ Devil Fruit Power
+
+* **Ability:** I can turn caffeine into optimized C++ code.
+* **Dream:** To find the *One Piece* of System Design! 👑
+* **Fun Fact:** I know Python syntax... but my heart beats in `std::cout`.
+
+---
+
+### 📨 Send a News Coo (Connect)
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yatham-yaswanth-kumar-reddy-a82188208)
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yasw175)
