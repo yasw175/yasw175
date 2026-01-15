@@ -24,18 +24,18 @@ I am a Systems & Backend Engineer setting sail to build **high-performance appli
 
 ### 🧭 The Log Pose (What I Do)
 
-* [cite_start]**Mastering the Blade (C++):** Solving complex algorithmic problems (DSA) and building efficient systems[cite: 26, 29].
-* [cite_start]**Shipwright Skills (Backend):** Engineering scalable REST APIs and Microservices[cite: 19].
-* [cite_start]**Navigation (DevOps):** Automating deployment with **CI/CD pipelines** and **Docker** containers[cite: 23].
-* [cite_start]**Alliance (Open Source):** Contributor to **Health4All**, serving hospitals across 7 states[cite: 43].
+* **Mastering the Blade (C++):** Solving complex algorithmic problems (DSA) and building efficient systems.
+* **Shipwright Skills (Backend):** Engineering scalable REST APIs and Microservices.
+* **Navigation (DevOps):** Automating deployment with **CI/CD pipelines** and **Docker** containers.
+* **Alliance (Open Source):** Contributor to **Health4All**, serving hospitals across 7 states.
 
 ---
 
 ### 💰 Current Bounty (Achievements)
 
-* [cite_start]🏆 **Winner:** Aptean AI Hackathon (LLM Application Tool)[cite: 31].
-* [cite_start]🥈 **Semifinalist:** Unstop Talent Park (Competitive Tech Challenge)[cite: 32].
-* [cite_start]📜 **Experience:** Freelance AI Prompt Engineer @ Outlier.ai[cite: 8].
+* 🏆 **Winner:** Aptean AI Hackathon (LLM Application Tool).
+* 🥈 **Semifinalist:** Unstop Talent Park (Competitive Tech Challenge).
+* 📜 **Experience:** Freelance AI Prompt Engineer @ Outlier.ai.
 
 ---
 
